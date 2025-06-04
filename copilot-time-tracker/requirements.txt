@@ -1,0 +1,17 @@
+asgiref==3.8.1
+Django==5.2.1
+djangorestframework==3.16.0
+drf-yasg==1.21.10
+inflection==0.5.1
+joblib==1.5.1
+numpy==2.2.6
+packaging==25.0
+psycopg2-binary==2.9.10
+pytz==2025.2
+PyYAML==6.0.2
+scikit-learn==1.6.1
+scipy==1.15.3
+sqlparse==0.5.3
+threadpoolctl==3.6.0
+typing_extensions==4.13.2
+uritemplate==4.1.1
