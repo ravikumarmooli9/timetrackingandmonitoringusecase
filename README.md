@@ -31,8 +31,8 @@ Perfect for IT service teams who want to optimize productivity, automate routine
 
 1. **Clone the repository**
     ```sh
-    git clone <your-repo-url>
-    cd copilot-time-tracker
+    git clone https://github.com/ravikumarmooli9/timetrackingandmonitoringusecase.git
+    cd timetrackingandmonitoringusecase
     ```
 
 2. **Install dependencies**
