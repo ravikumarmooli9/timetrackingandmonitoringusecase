@@ -1,7 +1,7 @@
 # 🚀 Copilot Time Tracker
 
 A Django REST API project for smart, automated time tracking and team management, powered by AI/ML.  
-Perfect for IT service teams who want to optimize productivity, automate routine tasks, and gain actionable insights.
+Perfect for IT service teams who want to optimize productivity, automate routine tasks
 
 ---
 
